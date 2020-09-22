@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/36840886/how-to-copy-and-paste-a-value-using
 
 https://sqa.stackexchange.com/questions/30596/how-to-store-copied-text-to-a-string-in-selenium-webdriver/40426
 
-# 웹드라이버 실험
+# 웹드라이버 실험 <- 복사해가면 좋겠다. 임포트도 위로 당겨오고
 """
 
 # set options to be headless, ..
